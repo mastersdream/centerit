@@ -7,6 +7,6 @@ Include **jQuery** and **centerit.jquery.js**
 $(element).**centerit();**
             
 
-### rersources  
+### resources 
 https://learn.jquery.com/plugins/basic-plugin-creation/ 
 http://benalman.com/news/2010/11/immediately-invoked-function-expression/
